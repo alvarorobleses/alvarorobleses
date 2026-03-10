@@ -25,12 +25,11 @@ I work on practical projects with **Python, SQL, ETL, EDA, data cleaning, and tr
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Data Engineering & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Pipelines-6A5ACD?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-2E8B57?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-FF8C00?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Database Systems](https://img.shields.io/badge/Database-Systems-708090?style=for-the-badge)

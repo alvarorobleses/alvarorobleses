@@ -71,9 +71,9 @@ I work on practical projects with **Python, SQL, ETL, EDA, data cleaning, and tr
 
 ## 📌 Goals
 ![Junior Data Engineer](https://img.shields.io/badge/Goal-Junior%20Data%20Engineer-1E90FF?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Focus-Analytics-8A2BE2?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Learning-Web%20Scraping-FF8C00?style=for-the-badge)
-![Pipelines](https://img.shields.io/badge/Focus-Data%20Pipelines-228B22?style=for-the-badge)
+![ETL Pipelines](https://img.shields.io/badge/Focus-ETL%20Pipelines-6A5ACD?style=for-the-badge)
+![Data Automation](https://img.shields.io/badge/Focus-Data%20Automation-FF8C00?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/Focus-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 

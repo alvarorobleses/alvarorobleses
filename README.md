@@ -1,76 +1,80 @@
 # Hi, I'm Alvaro Robles 👋
 
-Junior Data Engineering Enthusiast  
-Arequipa, Peru  
+### Junior Data Engineering Enthusiast  
+📍 Arequipa, Peru  
 
-[LinkedIn](https://www.linkedin.com/in/alvaro-robles-espinoza/) • [Email](mailto:alvarorobleses@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro%20Robles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-robles-espinoza/)
+[![Email](https://img.shields.io/badge/Email-alvarorobleses%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarorobleses@gmail.com)
+
+---
 
 ## 👨‍💻 About Me
 
-I am an Industrial Engineering graduate currently building my path into Data Engineering.
+Industrial Engineering graduate focused on building a career in **Data Engineering**.  
+I work on practical projects with **Python, SQL, ETL, data cleaning, and transformation**, and I enjoy turning raw data into structured, reliable datasets for analysis and decision-making.
 
-I am developing practical projects with Python, SQL, and data processing workflows, with a strong interest in ETL pipelines, data cleaning, transformation, and analytics. I enjoy understanding how data moves across systems and how to turn raw information into reliable datasets for analysis and decision-making.
+🎯 Currently looking for opportunities as:
+- Junior Data Engineer
+- Trainee Data Engineer
+- Data Analyst with strong SQL / data processing focus
 
-My current goal is to grow into a Junior Data Engineer role, where I can keep learning, contribute with solid technical foundations, and build reliable data solutions.
+---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
-### Programming & Querying
-- Python
-- SQL
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ### Data Engineering & Analytics
-- ETL pipelines
-- Data cleaning
-- Data transformation
-- Exploratory Data Analysis (EDA)
-- Data validation
-- CSV and Parquet processing
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-6A5ACD?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-2E8B57?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-FF8C00?style=for-the-badge)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge)
 
 ### Tools
-- Pandas
-- Jupyter Notebook
-- Git & GitHub
-- VS Code
-- Linux
-- Excel / Google Sheets
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA6F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Learning / Exploring
-- AWS
-- Data modeling
-- Cloud data workflows
+### Currently Learning
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data-Modeling-4682B4?style=for-the-badge)
+![Cloud Workflows](https://img.shields.io/badge/Cloud-Workflows-5F9EA0?style=for-the-badge)
+
+---
 
 ## 🚀 Featured Projects
 
 ### 📦 E-commerce ETL Pipeline
-**Technologies:** Python, Pandas, PyArrow
+- Cleaned and transformed e-commerce data
+- Validated nulls, duplicates, and data types
+- Generated customer and monthly sales outputs
+- Exported clean datasets to CSV and Parquet
 
-- Built an ETL pipeline to clean and transform e-commerce data
-- Handled null values, data types, duplicates, and validation checks
-- Generated business-ready outputs such as customer sales summaries and monthly sales reports
-- Exported cleaned datasets to optimized formats like Parquet
+🔗 **Project:** [Add your repository link here](#)
 
-🔗 [Project Link](#)
+### 🛒 Retail Sales Data Cleaning & Analysis
+- Worked with messy retail datasets
+- Documented assumptions like a real business case
+- Performed cleaning, transformation, and exploratory analysis
 
-### 📊 Retail Sales Data Cleaning & Analysis
-**Technologies:** Python, Pandas
+🔗 **Project:** [Add your repository link here](#)
 
-- Cleaned inconsistent retail sales data
-- Documented assumptions as if working in a real business environment
-- Explored sales behavior and customer patterns
-- Practiced professional data quality checks
+---
 
-🔗 [Project Link](#)
+## 📌 Goals
+![Junior Data Engineer](https://img.shields.io/badge/Goal-Junior%20Data%20Engineer-1E90FF?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Focus-Analytics-8A2BE2?style=for-the-badge)
+![SQL](https://img.shields.io/badge/Focus-SQL-2F4F4F?style=for-the-badge)
+![Pipelines](https://img.shields.io/badge/Focus-Data%20Pipelines-228B22?style=for-the-badge)
 
-## 📌 What I'm Looking For
-
-- Junior Data Engineer
-- Data Analyst roles with strong SQL / data processing focus
-- Entry-level opportunities where I can work with pipelines, structured data, and analytics
+---
 
 ## 🤝 Let's Connect
-
-I am always open to connecting with people in data, learning from projects, and hearing about opportunities.
-
-📫 Email: your_email_here  
-🔗 LinkedIn: your_linkedin_here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-robles-espinoza/)
+[![Email](https://img.shields.io/badge/Email-Write%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarorobleses@gmail.com)

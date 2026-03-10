@@ -1,6 +1,6 @@
 # Hi, I'm Alvaro Robles 👋
 
-### Junior Data Engineering Enthusiast  
+### Aspiring Junior Data Engineer  
 📍 Arequipa, Peru  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro%20Robles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-robles-espinoza/)
@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 Industrial Engineering graduate focused on building a career in **Data Engineering**.  
-I work on practical projects with **Python, SQL, ETL, data cleaning, and transformation**, and I enjoy turning raw data into structured, reliable datasets for analysis and decision-making.
+I work on practical projects with **Python, SQL, ETL, EDA, data cleaning, and transformation**, and I enjoy turning raw data into structured, reliable datasets for analysis and decision-making.
 
 🎯 Currently looking for opportunities as:
 - Junior Data Engineer
@@ -25,16 +25,18 @@ I work on practical projects with **Python, SQL, ETL, data cleaning, and transfo
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Engineering & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Pipelines-6A5ACD?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-2E8B57?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-FF8C00?style=for-the-badge)
-![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Database Systems](https://img.shields.io/badge/Database-Systems-708090?style=for-the-badge)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
@@ -70,8 +72,9 @@ I work on practical projects with **Python, SQL, ETL, data cleaning, and transfo
 ## 📌 Goals
 ![Junior Data Engineer](https://img.shields.io/badge/Goal-Junior%20Data%20Engineer-1E90FF?style=for-the-badge)
 ![Analytics](https://img.shields.io/badge/Focus-Analytics-8A2BE2?style=for-the-badge)
-![SQL](https://img.shields.io/badge/Focus-SQL-2F4F4F?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Learning-Web%20Scraping-FF8C00?style=for-the-badge)
 ![Pipelines](https://img.shields.io/badge/Focus-Data%20Pipelines-228B22?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Learning-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 

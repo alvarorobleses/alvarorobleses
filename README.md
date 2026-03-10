@@ -46,6 +46,7 @@ I work on practical projects with **Python, SQL, ETL, EDA, data cleaning, and tr
 ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data-Modeling-4682B4?style=for-the-badge)
 ![Cloud Workflows](https://img.shields.io/badge/Cloud-Workflows-5F9EA0?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Learning-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
@@ -73,7 +74,6 @@ I work on practical projects with **Python, SQL, ETL, EDA, data cleaning, and tr
 ![Analytics](https://img.shields.io/badge/Focus-Analytics-8A2BE2?style=for-the-badge)
 ![Web Scraping](https://img.shields.io/badge/Learning-Web%20Scraping-FF8C00?style=for-the-badge)
 ![Pipelines](https://img.shields.io/badge/Focus-Data%20Pipelines-228B22?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Learning-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 

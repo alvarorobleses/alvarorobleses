@@ -3,7 +3,7 @@
 Junior Data Engineering Enthusiast  
 Arequipa, Peru  
 
-[LinkedIn](#) • [Email](#)
+[LinkedIn](https://www.linkedin.com/in/alvaro-robles-espinoza/) • [Email](mailto:alvarorobleses@gmail.com)
 
 ## 👨‍💻 About Me
 

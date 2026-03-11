@@ -58,14 +58,7 @@ I work on practical projects with **Python, SQL, ETL, EDA, data cleaning, and tr
 - Generated customer and monthly sales outputs
 - Exported clean datasets to CSV and Parquet
 
-🔗 **Project:** [Add your repository link here](#)
-
-### 🛒 Retail Sales Data Cleaning & Analysis
-- Worked with messy retail datasets
-- Documented assumptions like a real business case
-- Performed cleaning, transformation, and exploratory analysis
-
-🔗 **Project:** [Add your repository link here](#)
+🔗 **Project:** [https://github.com/alvarorobleses/etl-con-python-ecommerce](#)
 
 ---
 
